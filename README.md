@@ -1,3 +1,3 @@
 # John Alrich Tecson
 
-Hobbies: Listening to music
+Hobbies: <br>1.Listening to music, <br>2.Watching movies, <br>3.Games
