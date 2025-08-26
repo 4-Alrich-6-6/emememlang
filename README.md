@@ -1,2 +1,3 @@
-# emememlang
--Sample repo for demo purpose
+# John Alrich Tecson
+
+Hobbies: Listening to music.
